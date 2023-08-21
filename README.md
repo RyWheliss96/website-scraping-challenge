@@ -4,7 +4,7 @@ Full web-scraping and data-analysis project
 ## Table of Contents
 
 - [Instructions](#instructions)
-- [Contents of the Repository](#contents of the repository)
+- [Contents of the Repository](#repository_contents)
 - [Questions and Answers](#questions)
 - [Givens](#givens)
 
@@ -18,7 +18,7 @@ You’re now ready to take on a full web-scraping and data analysis project. You
 As you work on this Challenge, remember that you’re strengthening the same core skills that you’ve been developing until now: collecting data, organizing and storing data, analyzing data, and then visually communicating your insights.<br />
 
 
-## Contents of the Repository
+## Repository_Contents
 There are 2 coding deliverables. The first is part_1_mars_news.ipynb which contains the titles and text from mars news articles. The second is part_2_mars_weather.ipynb which scrapes and analyzes Mars weather data.<br />
 I have also included the csv of the table which I converted into a DataFrame and used to do the analysis
 

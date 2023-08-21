@@ -4,7 +4,7 @@ Full web-scraping and data-analysis project
 ## Table of Contents
 
 - [Instructions](#instructions)
-- [Contents of the Repository](#contents_of_the_repository)
+- [Contents of the Repository](#contents of the repository)
 - [Questions and Answers](#questions)
 - [Givens](#givens)
 
